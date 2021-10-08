@@ -1,8 +1,8 @@
-- 👋 Hi, I’m JOY
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi,
+
+I’m Allen Joy Bueza, a Computer Science Student from the Philippines.
+
+👀 I’m interested in Website Development, Game Development and AI.
 
 <!---
 ab-JOY/ab-JOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
